@@ -1,0 +1,50 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&family=Kolker+Brush&display=swap');
+body{
+    background-image: url(/img/Backgroundimg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    background-color: white ; 
+    color: black ; 
+    text-align: center ;
+    font-family: "Jacquard 12", system-ui;
+}
+p{
+    color: green;
+    text-align: center;
+    font-family: "Kolker Brush", cursive;
+}*/
+
+.Sample{
+    background-color: black;
+    color: green;
+    text-align: center;
+    margin: 100px 200px 50px 20px;
+    padding: 100px 200px 50px 20px;
+    border: 20px solid red;
+}
+#sampleID{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+}
+.box01{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    position: sticky;
+    top: 50%;
+    z-index: -1;
+    
+}
+
+.box02{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    
+}
